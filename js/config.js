@@ -42,8 +42,8 @@ const weddingConfig = {
       address: "Gg. Gusti Muhammad Ali, Depan Kantor PU (Samping SMP 2 Ngabang)"
     },
     reception: {
-      label: "Yasinan",
-      time: "12.00 - 20.00 WIB",
+      label: "Acara Bebas",
+      time: "13.00 - 20.00 WIB",
       startISO: "2026-08-23T13:00:00+07:00",
       endISO: "2026-08-23T20:00:00+07:00",
       venue: "Kediaman Bapak Muhram",

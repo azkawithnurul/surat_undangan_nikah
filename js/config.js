@@ -65,12 +65,12 @@ const weddingConfig = {
   ],
 
   gallery: [
-    { src: "assets/images/gallery-1.jpg", size: "large", alt: "Foto prewedding Aditya dan Alia di taman" },
-    { src: "assets/images/gallery-2.jpg", size: "large", alt: "Potret Alia mengenakan gaun pengantin" },
-    { src: "assets/images/gallery-3.jpg", size: "large", alt: "Momen candid Aditya dan Alia tertawa" },
-    { src: "assets/images/gallery-4.jpg", size: "large", alt: "Aditya dan Alia berpegangan tangan" },
-    { src: "assets/images/gallery-5.jpg", size: "large", alt: "Foto prewedding di pantai saat matahari terbenam" },
-    { src: "assets/images/gallery-6.jpg", size: "large", alt: "Potret close-up pasangan" }
+    { src: "assets/images/gallery-1.jpg", size: "large", alt: "Foto prewedding Azka dan Nurul - 1" },
+    { src: "assets/images/gallery-2.jpg", size: "large", alt: "Foto prewedding Azka dan Nurul - 2" },
+    { src: "assets/images/gallery-3.jpg", size: "large", alt: "Foto prewedding Azka dan Nurul - 3" },
+    { src: "assets/images/gallery-4.jpg", size: "large", alt: "Foto prewedding Azka dan Nurul - 4" },
+    { src: "assets/images/gallery-5.jpg", size: "large", alt: "Foto prewedding Azka dan Nurul - 5" },
+    { src: "assets/images/gallery-6.jpg", size: "large", alt: "Foto prewedding Azka dan Nurul - 6" }
   ],
 
   video: {
@@ -96,8 +96,8 @@ const weddingConfig = {
   gift: {
     enabled: true,
     banks: [
-      { bank: "BCA", accountNumber: "1234567890", accountName: "Aditya Pratama" },
-      { bank: "Mandiri", accountNumber: "0987654321", accountName: "Alia Maharani" }
+      { bank: "BCA", accountNumber: "1234567890", accountName: "Azka Pratama" },
+      { bank: "Mandiri", accountNumber: "0987654321", accountName: "Nurul Maharani" }
     ],
     ewallets: [
       { name: "GoPay", accountNumber: "0812-3456-7890", accountName: "Maulidul Azka, S.Pd" }
